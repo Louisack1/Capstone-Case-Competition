@@ -12,8 +12,13 @@ The primary challenge is to develop robust predictive models using historical sa
 ## Solution Overview
 Our approach combines exploratory data analysis (EDA) with several predictive modeling techniques, including linear regression, K-nearest neighbors (KNN), decision trees, and ARIMA forecasting implemented in R to determine future product demand.
 
+## Recommendation
+6-month demand for Diet Energy Moonlit Cassava 2L Multi Jug:
+- **Demand Prediction**: 15,000 units
+- **Production Recommendation**: 11,000 units
+
 ## Contributions
-- ** Louis-----
+- **Louis Ackumey**: Handled the Business problem statement, KNN modeling and contributed to the EDA.
 
 ## Business Value
 The project enables Swire to minimize production costs and optimize inventory levels, leading to better resource management and enhanced profitability.
