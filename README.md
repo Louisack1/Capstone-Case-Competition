@@ -29,7 +29,3 @@ The project enables Swire to minimize production costs and optimize inventory le
 
 ## Learnings
 The project enhanced our understanding of advanced forecasting techniques and their application in solving real-world business problems. It also underscored the importance of teamwork and effective communication in data science projects.
-
-## Writing Standards
-We ensured clear, well-commented notebooks, insightful visualizations with appropriate titles and labels, and thorough interpretation of results to support business decision-making.
-
